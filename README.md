@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Cybersecurity%20%26%20AI%20Portfolio&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Cloud%20Security%20%7C%20AI%20%7C%20Automation&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=CybersecurityAIPortfolio&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20CloudSecurity%20%7C%20AI%20%7C%20Automation&descAlignY=58&descSize=16" width="100%"/>
 
 <div align="center">
 
