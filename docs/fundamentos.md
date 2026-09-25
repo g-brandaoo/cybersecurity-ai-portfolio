@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Fundamentos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Linux%20%7C%20Redes%20%7C%20Programação%20%7C%20Git%20%26%20GitHub&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Fundamentos&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Linux%20%7C%Redes%20%7C%20Progamação%20%7C%20Git%20%7C%20Githun&descAlignY=58&descSize=16" width="100%"/>
 
 <div align="center">
 
