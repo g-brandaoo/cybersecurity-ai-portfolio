@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<sub>Base técnica necessária para avançar em Cybersecurity, Cloud Security, Automação e AI Security.</sub>
+<sub>Fundamentos de segurança, análise de ameaças, segurança ofensiva e defensiva.</sub>
 
 </div>
 
